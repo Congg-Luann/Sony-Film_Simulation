@@ -101,3 +101,4 @@ For just **$5 USD (one-time payment per camera serial number)**, unlock the comp
   * `dex_scan`: 0 security issues / 0 prohibited APIs
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+When you purchase the paid version, I will include a toolkit for converting files into .cube and .xmp formats that are compatible with the system. This is necessary for the system to be able to read any LUTs from SD card.
