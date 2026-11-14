@@ -89,8 +89,9 @@ For just **$5 USD (one-time payment per camera serial number)**, unlock the comp
 
 * **Package Name:** `com.filmsimulation`
 * **Version Name:** `1.0.0-free` (Version Code: `100`)
-* **Output APK:** `FilmSimulation_Free_v1.0.0.apk`
+* **APK:** `FilmSimulation_Free_v1.0.0.apk`
 * **File Size:** 205,615 bytes
-
+## 7. contact:
+* **Whatsapp:** +84963807276
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 When you purchase the paid version, I will include a toolkit for converting files into .cube and .xmp formats that are compatible with the system. This is necessary for the system to be able to read any LUTs from SD card.
