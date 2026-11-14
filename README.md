@@ -91,15 +91,6 @@ For just **$5 USD (one-time payment per camera serial number)**, unlock the comp
 * **Version Name:** `1.0.0-free` (Version Code: `100`)
 * **Output APK:** `FilmSimulation_Free_v1.0.0.apk`
 * **File Size:** 205,615 bytes
-* **SHA-256 Checksum:** `db0cea792ff49ca8d1d8a18fbc175e911d5ba2c0143086b641ae35a9585f6554`
-* **Certificate Signature (Pinned Lab Key):** `f33fc1421cbc7d3d08dbf684079ad39b320be7ac3cc0148b1d2ba0966e31e919`
-* **Native C Engine:** `lib/armeabi/liblutcore.so`
-* **Automated Test Results:**
-  * `host_tests`: 88/88 PASS (0 fail)
-  * `xmp_tests`: 26/26 PASS (0 fail)
-  * `filmsim_tests`: 51/51 PASS (0 fail)
-  * `safety_tests`: 88/88 PASS (0 fail)
-  * `dex_scan`: 0 security issues / 0 prohibited APIs
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 When you purchase the paid version, I will include a toolkit for converting files into .cube and .xmp formats that are compatible with the system. This is necessary for the system to be able to read any LUTs from SD card.
