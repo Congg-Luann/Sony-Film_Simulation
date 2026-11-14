@@ -1,5 +1,5 @@
 # Sony-Film_Simulation
-This is the Open Memories application, which allows users to add any film simulation they like in the form of LUTs (Look-Up Tables). It has been tested and confirmed to be fully compatible with Sony A6000.
+This is the application can be install support PlayMemories Camera Apps, which allows users to add any film simulation they like in the form of LUTs (Look-Up Tables). It has been tested and confirmed to be fully compatible with Sony A6000 and .
 # Film Simulation v1 — Free Edition
 An embedded in-camera application for **Sony Alpha mirrorless cameras** (Sony A6000 / ILCE-6000 and PMCA-compatible bodies) that bridges the color science of the **Fujifilm X-T5** directly onto Sony's native hardware image processor (**BIONZ X ISP**).
 Capture authentic, film-like JPEG photographs **Straight Out Of Camera (SOOC)** with zero computer post-processing required.
@@ -25,7 +25,7 @@ Pre-loaded with 20 calibrated color profiles reverse-engineered from Fujifilm lo
 ### 6-Axis Hardware Color Depth Tuning
 Adjust color saturation and intensity directly on the sensor across 6 independent channels:
 * **Channels:** Red (R), Green (G), Blue (B), Cyan (C), Magenta (M), and Yellow (Y).
-* **Adjustment Range:** Fully adjustable within $[-3 \dots +3]$ steps.
+* **Adjustment Range:** Fully adjustable within $[-7 \dots +7]$ steps.
 ### In-Camera Shooting & Composition Tools
 Shoot directly inside the application without returning to the default camera menu:
 * **In-App Shutter Trigger:** Supports half-press (S1) for Autofocus lock and full press (S2) to capture and write JPEG photos directly to SD card.
@@ -53,6 +53,7 @@ Shoot directly inside the application without returning to the default camera me
 2. Look through the **EVF**: the camera's eye sensor automatically activates Live View with real-time film colors.
 3. Check composition and exposure using the EVF grid and live histogram.
 4. Press the shutter button to shoot. Your film simulation JPEG is immediately saved to the SD card.
+5. Support 3 options grid: Rule of thirds, Golden Spiral, square grid, diag + square (change quickly when using fn button)
 
 ---
 
